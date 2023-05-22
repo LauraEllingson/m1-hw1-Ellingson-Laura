@@ -4,7 +4,7 @@
 ## About Me ##
  I'm an artist, designer, photographer and UF student. I enjoy spending time with my children, gardening and learning new things. 
 ## Past Coding Experience ##
-I have minimum coding experience. I took a web design course a few years ago, but I don't remeber much of it. The most coding I've done was as a teenager customizing my myspace profile. Yes, I'm that old.
+I have minimum coding experience. I took a web design course a few years ago, but I don't remember much of it. The most coding I've done was as a teenager customizing my myspace profile. Yes, I'm that old.
 ## Career Goals ##
  
     1. Become a UX designer.
