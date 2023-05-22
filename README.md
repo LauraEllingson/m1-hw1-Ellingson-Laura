@@ -9,5 +9,6 @@ I have minimum coding experience. I took a web design course a few years ago, bu
  
     1. Become a UX designer.
     2. Design websites that are   easier to use and navigate.
-    3. Design websites that make learning and navigation easier for learning disabled students in online learning environments. 
+    3. Design websites that make learning and navigation easier for learning disabled students 
+       in online learning environments. 
 
